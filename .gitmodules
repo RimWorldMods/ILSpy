@@ -7,3 +7,6 @@
 [submodule "cecil"]
 	path = cecil
 	url = https://github.com/jbevain/cecil.git
+[submodule "ILSpyMono"]
+	path = ILSpyMono
+	url = https://github.com/andreif/ILSpyMono.git
